@@ -16,8 +16,8 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', type: 'text/css', href: 'http://fonts.googleapis.com/css?family=Lato:300,400,500,700' },
-      { rel: 'stylesheet', type: 'text/css', href: 'http://fonts.googleapis.com/css?family=Pacifico:400' }
+      { rel: 'stylesheet', type: 'text/css', href: 'https://fonts.googleapis.com/css?family=Lato:300,400,500,700' },
+      { rel: 'stylesheet', type: 'text/css', href: 'https://fonts.googleapis.com/css?family=Pacifico:400' }
     ]
   },
 
